@@ -6,6 +6,11 @@ li{
     list-style: none;
 }
 
+.header{
+    background-color: aqua;
+    height: 90px;
+}
+
 .header-lodo{
     float: left;
     margin-top: 4px;
@@ -18,4 +23,14 @@ li{
 .header-list li{
     float: left;
     margin: 4px 2.5px;
+}
+
+.main{
+    background-color: aquamarine;
+    height: 600px;
+}
+
+.footer{
+    background-color: coral;
+    height: 600px;
 }
