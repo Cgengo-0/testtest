@@ -8,6 +8,7 @@ li{
 
 .header-lodo{
     float: left;
+    margin-top: 4px;
 }
 
 .header-list{
@@ -16,5 +17,5 @@ li{
 
 .header-list li{
     float: left;
-    margin: 4 ss2.5px;
+    margin: 4px 2.5px;
 }
