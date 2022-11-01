@@ -7,13 +7,13 @@ li{
 }
 
 .header-lodo{
-    float: left;
+    float: le
 }
 
 .headder-list{
     float: right;
 }
 
-li.headder-list{
+.headder-list li{
     float: left;
 }
