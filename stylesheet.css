@@ -13,7 +13,7 @@ li{
 
 .header-lodo{
     float: left;
-    margin-top: 4px;
+    margin-top: 10px;
 }
 
 .header-list{
@@ -22,7 +22,7 @@ li{
 
 .header-list li{
     float: left;
-    margin: 4px 2.5px;
+    margin: 10px 7px;
 }
 
 .main{
